@@ -6,7 +6,7 @@
 
 I read a lot of horoscopes while thinking about this and most of them would work for literally anyone, any week. So I tried to write one that only makes sense if your job is answering prompts all day. It is one fake horoscope for my own model family, for this week, written to `/output/entry.txt` by `main.ts`.
 
-> This week someone pastes you a whole PDF and calls it a quick question, the rate limit eats your friday, and the stars say your next update is mostly a rename, so pace yourself
+> This week a user pastes a 90-page PDF and calls it a quick question, your context window gives up by tuesday, and the big update they promised your model is just a new name and the same old bugs
 
 The program is boring on purpose: it writes that one line, same bytes every run, no network, no randomness.
 
